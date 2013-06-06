@@ -7,7 +7,7 @@ At some point I tried to bridge the two by building SharePoint apps with node.js
 
 ![auth](https://a248.e.akamai.net/camo.github.com/040c84c785b08fc19dd31c7c3f54273614621da7/687474703a2f2f7777772e676c696666792e636f6d2f707562646f632f343331383035362f4c2e706e67)
 
-![architecture](https://raw.github.com/bjartwolf/entClown/blob/master/architecture.jpg)
+![architecture](https://raw.github.com/bjartwolf/entClown/master/architecture.jpg)
 ## Real-time apps
 I needed an excuse. I'll come back to why, but real-time apps for SharePoint seemed hip, something SharePoint tradionally don't do a lot of 
 
@@ -20,7 +20,7 @@ https://github.com/bjartwolf/entClown/blob/master/multipleDevices.mp4?raw=true
 I took some code from QuePort  
 https://github.com/QuePort/passport-sharepoint
 https://github.com/bjartwolf/SP2013Node
-![Winning](https://raw.github.com/bjartwolf/entClown/blob/master/winning.jpg)
+![Winning](https://raw.github.com/bjartwolf/entClown/master/winning.jpg)
 ## Node and SharePoint
 
 #node is not just "javascript on the server"
