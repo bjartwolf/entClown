@@ -1,9 +1,11 @@
 # Outline
 # Intro
 ## Living with a split personality
+Hi. I am @TheEnterpriseClown and @bjartnes. @bjartnes is a SharePoint Developer at Computas. @TheEnterpriseClown is the alter ego of @bjartnes. When @bjartnes would install Visual Studio 2012 and TFS, his alter ego is fed with rage, screaming for VIM and git. When @bjartnes carries his huge 32 GB RAM 2 spinning disks SharePoint dev environment around to the next scrum demo, almost breaking his back, you'll find @TheEnterpriseClown wants to go to a cool cafe at Tøyen to hack on his ultrabook.
+
 I'm not making fun of personality disorders here. I'm just struggling myself between trying way to hard to be a cool hacker with a linux ultrabook and the fact that I make my money building SharePoint applications for the Enterprise. Being laughed at in all camps.
 
-At some point I tried to bridge the two by building SharePoint apps with node.js.
+At some point I tried to bridge the two by building SharePoint apps with node.js. This is the story of when my two personalities hooked up.
 
 ![auth](https://a248.e.akamai.net/camo.github.com/040c84c785b08fc19dd31c7c3f54273614621da7/687474703a2f2f7777772e676c696666792e636f6d2f707562646f632f343331383035362f4c2e706e67)
 
